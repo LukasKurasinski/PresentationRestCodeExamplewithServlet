@@ -1,0 +1,15 @@
+
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ğ‰¾ÿŞ1
+F
+java:S1481")Remove this unused "name" local variable.(ûÁéê8÷‰¾ÿŞ1
+r
+java:S1989"PHandle the following exception that could be thrown by "sendError": IOException.(ú•¹Ÿÿÿÿÿÿ8÷‰¾ÿŞ1
+G	java:S106 "+Replace this use of System.out by a logger.(”«‹ã8÷‰¾ÿŞ1
+G	java:S106""+Replace this use of System.out by a logger.(€Í­û8ø‰¾ÿŞ1
+X	java:S125("<This block of commented-out lines of code should be removed.(ŠŠÚ†8øóÄÿŞ1
+c
+java:S1989*"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ø‰¾ÿŞ1
+L	java:S106-"+Replace this use of System.out by a logger.(ÅšÌ½ÿÿÿÿÿ8ù‰¾ÿŞ1
+L	java:S106/"+Replace this use of System.out by a logger.(³‹–âùÿÿÿÿ8ù‰¾ÿŞ1
+r
+java:S19890"PHandle the following exception that could be thrown by "sendError": IOException.(ú•¹Ÿÿÿÿÿÿ8ù‰¾ÿŞ1
